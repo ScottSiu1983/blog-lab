@@ -6,7 +6,7 @@ Companion code for Scott Siu's blog at [scottsiu.me](https://scottsiu.me): the s
 
 | Post | Code |
 | --- | --- |
-| 2026-11 · Codex compaction | [posts/2026-11-codex-compaction](posts/2026-11-codex-compaction) |
+| 2026-11 · [Claude Told Me Astra Blacked Out and Sol Won](https://scottsiu.me/writing/codex-compaction-task-loss/) | [posts/2026-11-codex-compaction](posts/2026-11-codex-compaction) |
 
 ## Tools
 

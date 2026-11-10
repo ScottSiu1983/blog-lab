@@ -1,6 +1,6 @@
 # Codex compaction experiment
 
-Companion code for the blog post: TBD: blog post link
+Companion code for the blog post [Claude Told Me Astra Blacked Out and Sol Won. 10M Tokens to Fill One Pothole](https://scottsiu.me/writing/codex-compaction-task-loss/) ([中文版](https://scottsiu.me/zh/writing/codex-compaction-task-loss/)).
 
 ## What it tests
 
